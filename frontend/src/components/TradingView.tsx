@@ -1,0 +1,1 @@
+// Ce fichier est remplacé par frontend/src/components/Trading/TradingView.tsx 
